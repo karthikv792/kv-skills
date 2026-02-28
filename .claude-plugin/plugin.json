@@ -1,6 +1,6 @@
 {
   "name": "kv-skills",
-  "description": "Opinionated design skills for Claude Code — distilled from 212 real-world design principle sets. Makes Claude build interfaces with genuine taste.",
+  "description": "A collection of opinionated skills for Claude Code — teaching Claude to do things with craft, not just correctness.",
   "version": "1.0.0",
   "author": {
     "name": "karthikv792",
