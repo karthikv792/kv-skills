@@ -31,6 +31,12 @@ claude plugin add karthikv792/kv-skills
 
 All skills are automatically available in every Claude Code session.
 
+### Via Marketplace
+
+```bash
+/plugin marketplace add karthikv792/kv-skills
+```
+
 ### Manual Installation
 
 ```bash
