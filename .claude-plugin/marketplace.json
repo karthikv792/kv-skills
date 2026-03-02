@@ -10,7 +10,7 @@
   },
   "plugins": [
     {
-      "name": "kv-skills",
+      "name": "designer-with-taste",
       "source": {
         "source": "url",
         "url": "https://github.com/karthikv792/kv-skills.git"

@@ -1,6 +1,6 @@
 {
-  "name": "kv-skills",
-  "description": "A collection of opinionated skills for Claude Code — teaching Claude to do things with craft, not just correctness.",
+  "name": "designer-with-taste",
+  "description": "Design philosophy distilled from 212 real-world principle sets. Makes Claude build interfaces with genuine taste — intentional hierarchy, purposeful color, accessible markup, and opinionated craft.",
   "version": "1.0.0",
   "author": {
     "name": "karthikv792",
