@@ -48,8 +48,9 @@ git clone git@github.com:karthikv792/kv-skills.git ~/.claude/plugins/kv-skills
 | Skill | Description | Details |
 |-------|-------------|---------|
 | **[Designer With Taste](skills/designer_with_taste/)** | Design philosophy distilled from 212 real-world principle sets. Makes Claude build interfaces with genuine taste — intentional hierarchy, purposeful color, accessible markup, and opinionated craft. | [README](skills/designer_with_taste/README.md) |
+| **[Screenwriting Helper](skills/screenwriting_helper/)** | Comprehensive screenwriting craft system distilled from Iglesias, Snyder, McKee, Campbell, and others. Covers ideation, character design, structure, scene craft, tension, polish, diagnostics, and Indian cinema traditions. | [README](skills/screenwriting_helper/README.md) |
 
-> More skills coming soon. Have an idea? [Open an issue](https://github.com/karthikv792/kv-skills/issues) or submit a PR.
+> Have an idea for a skill? [Open an issue](https://github.com/karthikv792/kv-skills/issues) or submit a PR.
 
 ## How It Works
 
@@ -84,12 +85,16 @@ kv-skills/
 ├── .claude-plugin/
 │   └── plugin.json              # Plugin metadata
 ├── skills/
-│   └── designer_with_taste/     # Design philosophy skill
+│   ├── designer_with_taste/     # Design philosophy skill
+│   │   ├── SKILL.md
+│   │   ├── README.md
+│   │   ├── references/          # 7 specialized reference files
+│   │   ├── assets/              # Design token system
+│   │   └── templates/           # HTML starter template
+│   └── screenwriting_helper/    # Screenwriting craft skill
 │       ├── SKILL.md
 │       ├── README.md
-│       ├── references/          # 7 specialized reference files
-│       ├── assets/              # Design token system
-│       └── templates/           # HTML starter template
+│       └── references/          # 8 specialized reference files
 ├── LICENSE
 └── README.md                    # You are here
 ```
